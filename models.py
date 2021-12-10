@@ -3,7 +3,7 @@ from typing import List, Tuple
 from turfpy.measurement import boolean_point_in_polygon
 from geojson import Point, Polygon, Feature
 
-
+# test
 class User:
     ID_INDEX = 0
     LAT_INDEX = 1
